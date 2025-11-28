@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "scripts": {
+    "start": "node express_server.js",
+    "start_node": "node node_server.js"
+  },
+  "name": "code_practice",
+  "version": "1.0.0",
+  "main": "asyn_await.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,12 @@
+{
+  "name": "app-obj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app_obj.js",
+  "scripts": {
+    "start": "node app_obj.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
